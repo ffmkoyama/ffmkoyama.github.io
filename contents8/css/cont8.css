@@ -1,0 +1,95 @@
+*{
+	ma
+}
+
+.Portfolio{
+	/*display: block;*/
+	width:100%;
+	max-height: 1000px;
+	padding-top:10px;
+	background-color: #fafafa
+}
+.porttext{
+	width:600px;
+	margin:0 auto;
+
+}
+.containerP {
+	width:1000px;
+	max-height:1000px;
+	margin:0 auto 90px;
+	/*margin:px;*/
+	/*margin:0 auto;*/
+	/*background-color: blue;*/
+}
+
+.box{
+	width:300px;
+	height:300px;
+	margin:5px;
+	float:left;
+}
+
+.box1 {
+	background-image: url("../img/sketch.jpg");
+	background-size: cover; 
+}
+.box2{
+	background-image: url("../img/websuku.png");
+	background-size: cover; 
+	background-position: 50%;
+}
+.box3{
+	background-image: url("../img/write 2.jpg");
+	background-size: cover; 
+}
+.box4{
+	background-image: url("../img/webcamp.png");
+	background-size: cover; 
+	background-position: 50%;
+}
+.box5{
+	background-image: url("../img/talk.jpg");
+	background-size: cover; 
+}.box6{
+	background-image: url("../img/webcamp-mother.png");
+	background-size: cover; 
+	background-position: 50%;
+}
+ p{
+ 	display: none;
+    width: 300px;
+    height: 300px;
+    color: white;
+    text-align: center;
+    padding-top:33%;
+    font-size: 2em;
+    box-sizing: border-box;
+    background-color: rgba(0,0,0,0.5);
+}
+
+ 
+/*@media all and (max-width: 768px){*/
+	 /*.box1, .box3, .box5{*/
+		/*display: none;*/
+	/*}*/
+	 /*.containerP{*/
+	 	/*width:500px;*/
+	 /*}*/
+	 /*.box2, .box4, .box6{*/
+	 	/*width:100%;*/
+	 /*}*/
+/*}*/
+
+/*@media all and (max-width: 768px){*/
+	/*.containerP{*/
+		/*width:500px;, padding:0 auto;*/
+	/*}*/
+/*}*/
+/*@media all and (max-width: 768px){*/
+	/*.img2, .img4, .img6{*/
+		/*overflow:hidden;*/
+		/*width:100%;*/
+	/*}*/
+/*}*/
+.
